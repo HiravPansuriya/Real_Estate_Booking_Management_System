@@ -59,11 +59,12 @@ real-estate/
 │   ├── main/
 │   │   ├── java/com/Hirav/real-estate/
 │   │   │   ├── config/       # Spring Security Configurations
-│   │   │   ├── controller/   # Controllers
-│   │   │   ├── dao/          # Repositories (Data Access Layer)
-│   │   │   ├── entity/       # Entity classes
+│   │   │   ├── controller/   # REST controllers for endpoints
+│   │   │   ├── dao/          # Data Access Objects
+│   │   │   ├── dto/          # Data Transfer Object
+│   │   │   ├── entity/       # Entity classes and enums
 │   │   │   ├── exception/    # Exception Handling (Error Message in Postman)
-│   │   │   └── service/      # Business logic
+│   │   │   └── service/      # Service layer with Business logic
 │   │   └── resources/        # application.properties, static files
 │   ├── test/                 # Unit and Integration Tests
 ├── pom.xml                   # Maven Build File
