@@ -1,6 +1,6 @@
-# 🏠 Real Estate Property Listing API
+# 🏠 Real Estate Property Listing & Booking API
 
-A robust and secure REST API built with Spring Boot that facilitates listing, searching, and booking of real estate properties. With role-based access control and clear visibility rules, this system supports **Buyers**, **Sellers**, and **Admins**. The application includes support for secure bookings and appointment management.
+A robust and secure REST API built with Spring Boot that facilitates listing, searching, and booking Appointments of real estate properties. With role-based access control and clear visibility rules, this system supports **Buyers**, **Sellers**, and **Admins**. The application includes support for secure bookings and appointment management.
 
 ---
 
